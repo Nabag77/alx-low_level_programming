@@ -15,8 +15,8 @@ int main(void)
 	while (digit <= 102)
 	{
 		putchar(digit);
-		if (digit == 59)
-			digit += 39;
+		if (digit == 57)
+			digit = digit + 39;
 		digit = digit + 1;
 	}
 	putchar('\n');
