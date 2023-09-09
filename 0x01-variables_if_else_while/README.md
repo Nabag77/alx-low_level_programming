@@ -10,7 +10,7 @@ __This Readme is for 0x01. C - Variables, if, else, while__
 8th script prints all the numbers of base 16 in lowercase, followed by a new line.   
 9th script prints all possible combinations of single-digit numbers.   
 
-___OPTIONAL TASKS___
+___OPTIONAL TASKS___   
 10th script prints all possible different combinations of two digits.   
 11th script prints all possible different combinations of three digits.   
 12th script prints all possible combinations of two two-digit numbers.   
