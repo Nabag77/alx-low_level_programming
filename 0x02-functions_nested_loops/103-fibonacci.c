@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: prog. that finds and prints the sum of the even-valued terms in fibonacci sequence
+ * Description: prog. finds and prints sum of even-valued terms in
+ *              fibonacci sequence
  *
  * Return: Always 0 (success)
  */
