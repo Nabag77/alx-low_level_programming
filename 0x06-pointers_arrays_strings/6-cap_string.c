@@ -8,7 +8,7 @@
  * Return: the changed string
  */
 
-har *cap_string(char *st)
+char *cap_string(char *st)
 {
 	int index = 0;
 
